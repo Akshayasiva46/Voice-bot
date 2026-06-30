@@ -1,5 +1,5 @@
 # Personal Voice Assistant
-
+APP URL :- https://voice-bot-bsu6.vercel.app/
 A decoupled web app with:
 
 - `frontend/`: React + Vite + TypeScript UI
